@@ -16,3 +16,6 @@
 3、ConcurrentHashMap基础上基于FutureTask实现（com.zxa.cache.Memoizer3）
 
 4、优化Map的put操作（com.zxa.cache.Memoizer)
+
+#### 并行性（Callable,Future,CompletionService(Executor && BlockingQueue)）
+1、Callable和Future(com.zxa.parallel.FutureRenderer)
