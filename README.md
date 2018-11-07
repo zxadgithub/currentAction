@@ -19,6 +19,6 @@
 
 #### 并行性（Callable,Future,CompletionService(Executor && BlockingQueue)）
 [博客链接](https://blog.csdn.net/zxadcsdn/article/details/83831603)
-
+[Executor](https://blog.csdn.net/zxadcsdn/article/details/83780892)
 1、Callable和Future(com.zxa.parallel.FutureRenderer)
 2、CompletionService(com.zxa.parallel.Renderer)
